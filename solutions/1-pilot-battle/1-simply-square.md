@@ -1,10 +1,14 @@
-# Battle #1 - Pilot Battle
+# Battle
 
-## #1 - Simple Square
+## Battle #1
 
-[Link to the problem](https://cssbattle.dev/play/1)
+### #1.Simply Square
 
-![result](../images/1-simply-square.png)
+[1-Simple Square CSS Battle Link](https://cssbattle.dev/play/1)
+
+![my solution](../images/1-simply-square.png)
+
+#### My Solution
 
 ```html
 <div></div>
